@@ -1,0 +1,16 @@
+.venv/
+media/
+staticfiles/
+mediafiles/
+contrib/
+.idea/
+.git/
+db.sqlite3
+.gitignore
+*.yml
+*.yaml
+Dockerfile
+requirements-dev.txt
+.dockerignore
+**/__pycache__
+.env

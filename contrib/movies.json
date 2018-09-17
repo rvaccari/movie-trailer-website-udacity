@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Toy Story 1",
+    "storyline": "A story of a boy and his toys that come to life",
+    "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=KYz2wyBy3kc"
+  },
+  {
+    "id": 2,
+    "title": "Avatar",
+    "storyline": "A marine on an alien planet",
+    "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Avatar-Teaser-Poster.jpg/220px-Avatar-Teaser-Poster.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=5PSNL1qE6VY"
+  }
+]
