@@ -1,7 +1,7 @@
-#A movie trailer website in Django
+# A movie trailer website in Django
 This is the source code for a Movie Trailer webpage. It displays a list of movie trailers picked personally by Rodrigo Vaccari. You can see a little description of the movie when you just hover over the movie image.
 
-#Steps
+# Steps
 How to install in locally (supposing you have git and python >= 3.6 installed):
 
 ```console
@@ -21,7 +21,7 @@ If you want run your amb using docker, run:
 docker-compose up -d
 ```
 
-#License Details
+# License Details
 
 The AGPL license here cover everything relate to source code but Python Pro logo and Image.
 So you need to change this data for you own trademark.
